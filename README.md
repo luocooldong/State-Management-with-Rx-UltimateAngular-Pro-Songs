@@ -1,6 +1,6 @@
 <a href="https://ultimateangular.com" target="_blank"><img src="https://toddmotto.com/img/ua.png"></a>
 
-# Angular Fundamentals Seed
+# Angular Pro Seed
 
 > This is the seed project for the [Angular Fundamentals](https://ultimateangular.com/courses/#angular-2) course by [Todd Motto](https://twitter.com/toddmotto).
 
